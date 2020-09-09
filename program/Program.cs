@@ -12,31 +12,33 @@ namespace program
         {
             try
             {
-                int a, b;
-                int sum = 0;
+               int a, b;
+               int sum = 0;
                 int product = 0;
+               int divide = 0;
                 Console.WriteLine("Enter first number");
                 a = Convert.ToInt32(Console.ReadLine());
                 
                 Console.WriteLine("Enter second number");
                 b = Convert.ToInt32(Console.ReadLine());
-                while(a==0 || b==0)
-                {
+               
                     if(a==0)
                     {
-                        Console.WriteLine("Enter first number again");
+                        Console.WriteLine("Enter first number again it should not be 0");
                         a = Convert.ToInt32(Console.ReadLine());
                     }
                     else if(b==0)
                     {
-                        Console.WriteLine("Enter second number again");
+                        Console.WriteLine("Enter second number again it should not be 0");
                         b = Convert.ToInt32(Console.ReadLine());
                     }
-                }
+               
                 sum = a + b;
                 product = a * b;
+                divide = a / b;
                 Console.WriteLine("Sum:{0}", sum);
                 Console.WriteLine("Product:{0}", product);
+                Console.WriteLine("Divide:{0}", divide);
 
 
 
