@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\BuddyProject\BuddyProject\bin\Debug\BuddyProject.exe.config
+C:\Users\hp\source\repos\BuddyProject\BuddyProject\bin\Debug\BuddyProject.exe
+C:\Users\hp\source\repos\BuddyProject\BuddyProject\bin\Debug\BuddyProject.pdb
+C:\Users\hp\source\repos\BuddyProject\BuddyProject\obj\Debug\BuddyProject.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BuddyProject\BuddyProject\obj\Debug\BuddyProject.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BuddyProject\BuddyProject\obj\Debug\BuddyProject.exe
+C:\Users\hp\source\repos\BuddyProject\BuddyProject\obj\Debug\BuddyProject.pdb
