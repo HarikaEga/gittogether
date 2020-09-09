@@ -5,3 +5,10 @@ C:\Users\hp\source\repos\BuddyProject\BuddyProject\obj\Debug\BuddyProject.csproj
 C:\Users\hp\source\repos\BuddyProject\BuddyProject\obj\Debug\BuddyProject.csproj.CoreCompileInputs.cache
 C:\Users\hp\source\repos\BuddyProject\BuddyProject\obj\Debug\BuddyProject.exe
 C:\Users\hp\source\repos\BuddyProject\BuddyProject\obj\Debug\BuddyProject.pdb
+C:\Users\Hi\source\repos\program\BuddyProject\bin\Debug\BuddyProject.exe.config
+C:\Users\Hi\source\repos\program\BuddyProject\bin\Debug\BuddyProject.exe
+C:\Users\Hi\source\repos\program\BuddyProject\bin\Debug\BuddyProject.pdb
+C:\Users\Hi\source\repos\program\BuddyProject\obj\Debug\BuddyProject.csprojAssemblyReference.cache
+C:\Users\Hi\source\repos\program\BuddyProject\obj\Debug\BuddyProject.csproj.CoreCompileInputs.cache
+C:\Users\Hi\source\repos\program\BuddyProject\obj\Debug\BuddyProject.exe
+C:\Users\Hi\source\repos\program\BuddyProject\obj\Debug\BuddyProject.pdb
